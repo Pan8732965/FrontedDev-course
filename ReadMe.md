@@ -1,1 +1,1 @@
-# FrontedDev-course
+# Fronted Dev course Repo
